@@ -1,0 +1,3 @@
+D:/pycode/urlchain/build/CMakeFiles/winif.dir
+D:/pycode/urlchain/build/CMakeFiles/edit_cache.dir
+D:/pycode/urlchain/build/CMakeFiles/rebuild_cache.dir

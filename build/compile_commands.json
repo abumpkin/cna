@@ -1,0 +1,22 @@
+[
+{
+  "directory": "D:/pycode/urlchain/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-gcc.exe -Dwinif_EXPORTS @CMakeFiles/winif.dir/includes_C.rsp -g -o CMakeFiles\\winif.dir\\winif\\main.c.obj -c D:\\pycode\\urlchain\\winif\\main.c",
+  "file": "D:/pycode/urlchain/winif/main.c"
+},
+{
+  "directory": "D:/pycode/urlchain/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-gcc.exe -Dwinif_EXPORTS @CMakeFiles/winif.dir/includes_C.rsp -g -o CMakeFiles\\winif.dir\\cjson\\cJSON.c.obj -c D:\\pycode\\urlchain\\cjson\\cJSON.c",
+  "file": "D:/pycode/urlchain/cjson/cJSON.c"
+},
+{
+  "directory": "D:/pycode/urlchain/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-gcc.exe -Dwinif_EXPORTS @CMakeFiles/winif.dir/includes_C.rsp -g -o CMakeFiles\\winif.dir\\cjson\\cJSON_Utils.c.obj -c D:\\pycode\\urlchain\\cjson\\cJSON_Utils.c",
+  "file": "D:/pycode/urlchain/cjson/cJSON_Utils.c"
+},
+{
+  "directory": "D:/pycode/urlchain/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-gcc.exe -Dwinif_EXPORTS @CMakeFiles/winif.dir/includes_C.rsp -g -o CMakeFiles\\winif.dir\\base64\\base64.c.obj -c D:\\pycode\\urlchain\\base64\\base64.c",
+  "file": "D:/pycode/urlchain/base64/base64.c"
+}
+]
